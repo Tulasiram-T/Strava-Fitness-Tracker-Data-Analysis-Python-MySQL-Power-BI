@@ -77,4 +77,3 @@ The Power BI dashboard includes:
 
 ---
 
-## 📜 Project Structure
