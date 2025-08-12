@@ -1,6 +1,6 @@
 # Strava Fitness Tracker Data Analysis – Python | MySQL | Power BI
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview]([screenshots/dashboard_preview.png](https://github.com/Tulasiram-T/Strava-Fitness-Tracker-Data-Analysis-Python-MySQL-Power-BI.git))
 
 ## 📊 Project Overview
 This project analyzes fitness tracker data collected from Strava and related fitness tracking devices.  
